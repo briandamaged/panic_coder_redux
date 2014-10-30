@@ -1,5 +1,5 @@
 
-require_relative 'library'
+require_relative 'lib/library'
 
 robot = Robot.new()
 robot.x = 3
